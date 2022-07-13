@@ -3,6 +3,7 @@ import NavBar from "./NavBar";
 import Home from "./Home";
 import About from "./About";
 
+
 // pass this data down as props to the child component(s) that need it!
 //In the App component, pass down data from the user object as props to the 
 //Home component so that it renders correctly. 
